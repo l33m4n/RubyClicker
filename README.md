@@ -7,10 +7,10 @@ Noticed there wasnt a repo on github so figured id make one
 
 self-destruct (and all) code is spag
 
-self-destruct kinda works, worked for me lol. was not tested against any paid SS tools (only leaked ones, and I forgot which ones I tested, and im not a ss mod) 
+self-destruct kinda works, worked for me lol. was not tested against any paid SS tools 
 
 REQUIREMENTS (Only to edit src, app can run with JUST .exe)
 
-Siticone.UI dll (basic unthemed app is WIP)
+Siticone.UI 
 
-gunaui.2
+gunaUI.2
