@@ -1,9 +1,9 @@
 # Autoclicker C
 
-Stolen from https://www.youtube.com/watch?v=-DqX8fT1DrA
+Code is from https://www.youtube.com/watch?v=-DqX8fT1DrA
 
 Noticed there wasnt a repo on github so figured id make one
 
-Code is spag
+self-destruct (and all) code is spag
 
-self-destruct kinda works, worked for me lol 
+self-destruct kinda works, worked for me lol. was not tested against any paid SS tools (only leaked ones, and I forgot which ones I tested, and im not a ss mod) 
