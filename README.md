@@ -1,4 +1,4 @@
-# Autoclicker C
+# Autoclicker C / RubyClicker
 
 Code is from https://www.youtube.com/watch?v=-DqX8fT1DrA
 
