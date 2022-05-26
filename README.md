@@ -12,4 +12,5 @@ self-destruct kinda works, worked for me lol. was not tested against any paid SS
 REQUIREMENTS (Only to edit src, app can run with JUST .exe)
 
 Siticone.UI dll (basic unthemed app is WIP)
+
 gunaui.2
