@@ -2,6 +2,7 @@
 https://rubyclicker.com
 
 Code is from https://www.youtube.com/watch?v=-DqX8fT1DrA
+showcase https://www.youtube.com/watch?v=zUoKrQAOIk8
 
 Noticed there wasnt a repo on github so figured id make one
 
