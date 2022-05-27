@@ -1,7 +1,10 @@
 # Autoclicker C / RubyClicker
 https://rubyclicker.com
 
+RUN AS ADMIN IF YOU WANT SELF DESTRUCT TO WORK (kinda)
+
 Code is from https://www.youtube.com/watch?v=-DqX8fT1DrA
+
 showcase https://www.youtube.com/watch?v=zUoKrQAOIk8
 
 Noticed there wasnt a repo on github so figured id make one
