@@ -1,5 +1,7 @@
 # Autoclicker C / RubyClicker
 
+I rlly just made this cus I didn't like the UI of most autoclickers out there. There are better projects out there. 
+
 ![preview](https://i.ibb.co/tCwMvLX/Deepin-Screenshot-select-area-20220527012059.png)
 
 **RUN AS ADMIN IF YOU WANT SELF DESTRUCT TO WORK (kinda)**
