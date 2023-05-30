@@ -1,5 +1,4 @@
 # Autoclicker C / RubyClicker
-https://rubyclicker.com
 
 ![preview](https://i.ibb.co/tCwMvLX/Deepin-Screenshot-select-area-20220527012059.png)
 
