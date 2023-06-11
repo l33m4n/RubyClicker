@@ -17,3 +17,8 @@ self-destruct **kinda** works, worked for me lol. **was not tested against any p
 Siticone.UI 
 
 gunaUI.2
+
+
+**self destruct**
+
+The way self destruct works is it spawns a cmd file to delete all files. *i think?* this is ss proof? i honestly have no idea. like i said i made this for the ui not to be ss proof lol. if someone wants to take the time to look at how other projects do it and copy it here, feel free. I just don't care about Minecraft enough.
