@@ -12,7 +12,7 @@ Noticed there wasnt a repo on github so figured id make one
 
 self-destruct **kinda** works, worked for me lol. **was not tested against any _**paid**_ SS tools**
 
-**REQUIREMENTS** (Only to edit src, app can run with JUST .exe)
+**REQUIREMENTS** (Only to edit src, app can run with _just_ .exe)
 
 Siticone.UI 
 
