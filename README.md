@@ -4,7 +4,7 @@ I rlly just made this cus I didn't like the UI of most autoclickers out there. T
 
 ![preview](https://i.ibb.co/tCwMvLX/Deepin-Screenshot-select-area-20220527012059.png)
 
-#**RUN AS ADMIN IF YOU WANT SELF DESTRUCT TO WORK (kinda)**
+# **RUN AS ADMIN IF YOU WANT SELF DESTRUCT TO WORK (kinda)**
 
 Code is from https://www.youtube.com/watch?v=-DqX8fT1DrA
 
