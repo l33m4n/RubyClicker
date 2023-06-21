@@ -10,7 +10,7 @@ Code is from https://www.youtube.com/watch?v=-DqX8fT1DrA
 
 Noticed there wasnt a repo on github so figured id make one
 
-self-destruct **kinda** works, worked for me lol. **was not tested against any paid SS tools **
+self-destruct **kinda** works, worked for me lol. **was not tested against any _**paid**_ SS tools **
 
 **REQUIREMENTS** (Only to edit src, app can run with JUST .exe)
 
